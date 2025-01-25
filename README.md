@@ -164,10 +164,8 @@ sales-forecasting-time-series/
 
 ---
 
----
-
 ## 🙏 *Acknowledgments*
 - *📈 ARIMA*: Statistical approach for time series analysis.
 - *🔮 Prophet*: Developed by Facebook for scalable forecasting.
-- *🌊 SARIMA*: Seasonal Autoregressive Integrated Moving Average model.  
-```
+- *🌊 SARIMA*: Seasonal Autoregressive Integrated Moving Average model.
+
