@@ -109,12 +109,12 @@ This project equips businesses with the tools and insights to stay ahead by:
 ### ⚙ *Setup Instructions*
 1. *Clone the repository*:  
    ```bash
-   git clone https://github.com/ArpiCodes/sales-forecasting-time-series.git
+   git clone https://github.com/ArpiCodes/Sales-Forecasting-Using-Time-Series-models.git
    ```
    
 2. *Navigate to the project folder*:  
    ```bash
-   cd sales-forecasting-time-series
+   cd Sales-Forecasting-Using-Time-Series-models
    ```
    
 3. *Install required libraries*:  
@@ -127,7 +127,7 @@ This project equips businesses with the tools and insights to stay ahead by:
 1. Add your dataset to the data/ folder.  
 2. Open the Jupyter Notebook:  
    ```bash
-   jupyter notebook notebooks/sales_forecasting.ipynb
+   jupyter notebook notebooks/Sales Forecasting Using Time Series Models.ipynb
    ```
    
 3. Run the notebook to explore:  
